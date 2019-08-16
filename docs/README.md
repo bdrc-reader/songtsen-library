@@ -4,7 +4,7 @@
 
 # སྲོང་བཙན་དཔེ་མཛོད་ཀྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/songtsen-library/master/docs/img/3.jpg)
+![image alt text](https://raw.githubusercontent.com/bdrc-reader/songtsen-library/master/docs/img/3.png)
 
 <br>
 <br>
